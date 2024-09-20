@@ -10,3 +10,9 @@ The player chooses one of the three options, and the computer randomly selects i
 ->HTML5 for the structure of the web page
 ->CSS3 for styling and layout
 ->JavaScript for game logic and interactivity
+
+Playing the Game :-
+->Open the game in your browser.
+->Click on one of the options: Rock, Paper, or Scissors.
+->The computer will randomly choose one of the three options.
+->The winner will be displayed on the screen, along with the current score.
