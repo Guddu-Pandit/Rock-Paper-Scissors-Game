@@ -1,5 +1,4 @@
 # Rock-Paper-Scissors-Game
-
 🎮 About the Project :-
 This is a simple Rock, Paper, Scissors game built using HTML, CSS, and JavaScript. The game allows players to challenge the computer in a fun and interactive way. The game rules are simple:
 
